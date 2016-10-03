@@ -1,0 +1,12 @@
+  The Graph  
+Duration: 0	 Distance:
+Duration: 1	 Distance:
+Duration: 2	 Distance:
+Duration: 3	 Distance:*
+Duration: 4	 Distance:***
+Duration: 5	 Distance:*****
+Duration: 6	 Distance:*******
+Duration: 7	 Distance:*********
+Duration: 8	 Distance:************
+Duration: 9	 Distance:****************
+Duration: 10	 Distance:********************
